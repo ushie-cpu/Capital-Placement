@@ -1,0 +1,12 @@
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\bin\Debug\net6.0\CapitalPlacement.Services.deps.json
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\bin\Debug\net6.0\CapitalPlacement.Services.dll
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\bin\Debug\net6.0\ref\CapitalPlacement.Services.dll
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\bin\Debug\net6.0\CapitalPlacement.Services.pdb
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\obj\Debug\net6.0\CapitalPlacement.Services.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\obj\Debug\net6.0\CapitalPlacement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\obj\Debug\net6.0\CapitalPlacement.Services.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\obj\Debug\net6.0\CapitalPlacement.Services.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\obj\Debug\net6.0\CapitalPlacement.Services.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\obj\Debug\net6.0\CapitalPlacement.Services.dll
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\obj\Debug\net6.0\ref\CapitalPlacement.Services.dll
+C:\Users\Decagon\Desktop\CodeMaze\CapitalPlacementAssessement\CapitalPlacement.Services\obj\Debug\net6.0\CapitalPlacement.Services.pdb

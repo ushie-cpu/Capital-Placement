@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e6a04ec-938a-4778-abb0-e31b72d7b203": {
+      "ProjectGuid": "2e6a04ec-938a-4778-abb0-e31b72d7b203",
+      "DisplayName": "CapitalPlacementAssessement",
+      "ColorIndex": 0
+    },
+    "427fa65a-03e1-48f3-ae06-dab9548f71df": {
+      "ProjectGuid": "427fa65a-03e1-48f3-ae06-dab9548f71df",
+      "DisplayName": "CapitalPlacement.Data",
+      "ColorIndex": 1
+    },
+    "87af8dfd-3c1c-430a-9c3d-df998711f028": {
+      "ProjectGuid": "87af8dfd-3c1c-430a-9c3d-df998711f028",
+      "DisplayName": "CapitalPlacement.Common",
+      "ColorIndex": 2
+    },
+    "d339e806-fead-4a68-915f-bc88b981ffc7": {
+      "ProjectGuid": "d339e806-fead-4a68-915f-bc88b981ffc7",
+      "DisplayName": "CapitalPlacement.Models",
+      "ColorIndex": 3
+    },
+    "ace77f7a-4998-40c3-9373-f22e8fee940e": {
+      "ProjectGuid": "ace77f7a-4998-40c3-9373-f22e8fee940e",
+      "DisplayName": "CapitalPlacement.Services",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
